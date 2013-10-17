@@ -1,4 +1,0 @@
-prefix-sorting
-==============
-
-Prefix sorting
