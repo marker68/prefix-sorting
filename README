@@ -1,5 +1,9 @@
 prefix-sorting
 =================
+
+課題の説明：http://www.logos.t.u-tokyo.ac.jp/~tau/lecture/software/2013/practice2/index.html
+
+
 以下のフォルダとファイルがある。make コマンドが使えると仮定している。
 • /src/Makefile:ソースコードを一回でコンパイルできるように全コマンドを備えているもの。下記の
 コマンドを使用することでソースコードをコンパイルできる。
